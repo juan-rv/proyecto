@@ -1,0 +1,12 @@
+# Python
+venv/
+__pycache__/
+
+# Node.js
+node_modules/
+
+# MacOS
+.DS_Store
+
+# Otros archivos innecesarios
+.env
